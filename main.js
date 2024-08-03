@@ -13,11 +13,11 @@ gameOptions.forEach(gameOption => {
         if(option.toLowerCase() == "easy") {
             document.querySelectorAll(".container .info span")[1].innerHTML = "[ 9 ]";
             document.querySelector(".time span").innerHTML = 9;
-            time = 7000;
+            time = 9000;
         } else if(option.toLowerCase() == "medium") {
             document.querySelectorAll(".container .info span")[1].innerHTML = "[ 6 ]";
             document.querySelector(".time span").innerHTML = 6;
-            time = 5000;
+            time = 6000;
         } else {
             document.querySelectorAll(".container .info span")[1].innerHTML = "[ 3 ]";
             document.querySelector(".time span").innerHTML = 3;
