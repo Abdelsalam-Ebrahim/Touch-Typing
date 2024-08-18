@@ -73,7 +73,7 @@ function Timer() {
     let timer = setInterval(function() {
         let inputField = document.querySelector("input");
         
-        if(inputField.value !== theWord) {
+        if(inputField.value.toLowerCase() !== theWord.toLowerCase()) {
             document.querySelector(".game-over").style.display = "flex";
             clearInterval(timer);
         } else {
