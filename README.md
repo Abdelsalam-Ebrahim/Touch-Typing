@@ -11,3 +11,6 @@
 - **Score:** Your score is displayed at the bottom right corner, showing how many words you typed correctly out of the total number of words presented.
 
 This game is perfect for anyone looking to enhance their typing skills in a fun and challenging way.
+
+### Live Demo
+Check out the live demo of Leon: [Touch Typing](https://abdelsalam-ebrahim.github.io/Touch-Typing/)
