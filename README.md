@@ -13,4 +13,4 @@
 This game is perfect for anyone looking to enhance their typing skills in a fun and challenging way.
 
 ### Live Demo
-Check out the live demo of Leon: [Touch Typing Live Demo](https://abdelsalam-ebrahim.github.io/Touch-Typing/)
+Check out the live demo of the game: [Touch Typing Live Demo](https://abdelsalam-ebrahim.github.io/Touch-Typing/)
